@@ -1,4 +1,4 @@
-# Spam Mail Detection
+# Spam Mail Prediction
 
 ## Overview
 
@@ -35,5 +35,5 @@ The dataset `mail_data.csv` includes the following columns:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tusharkrishna27/Spam-Email-Detection.git
-   cd Spam-Email-Detection
+   git clone https://github.com/tusharkrishna27/Spam-Email-Prediction.git
+   cd Spam-Email-Prediction
