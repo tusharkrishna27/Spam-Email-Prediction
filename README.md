@@ -35,5 +35,5 @@ The dataset `mail_data.csv` includes the following columns:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tusharkrishna27/spam-mail-detection.git
-   cd spam-mail-detection
+   git clone https://github.com/tusharkrishna27/Spam-Email-Detection.git
+   cd Spam-Email-Detection
