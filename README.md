@@ -1,4 +1,4 @@
-# Spam Mail Prediction
+# Spam Email Prediction
 
 ## Overview
 
